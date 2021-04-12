@@ -1,3 +1,3 @@
 /*
-    ===== Código de TypeScript para realizar =====
+    ===== Código de TypeScript =====
 */
